@@ -23,7 +23,7 @@ c. After running the activation command, you should see the virtual environment 
    (spyder-env) C:\path\to\the\environment>
    ```
 
-   This indicates that the virtual environment is active, and any Python commands you run or packages you install will be isolated within the virtual environment. Useful for adding new package specific features to your project.
+   This indicates that the virtual environment is active, and any Python commands you run or packages you install will be isolated within the virtual environment. Useful for adding new         package specific features to your project.
 
 **Note:Deactivating the Virtual Environment**
 
@@ -35,7 +35,7 @@ deactivate
 
 After deactivation, the terminal prompt will no longer show the virtual environment name, indicating that you are back in the system-wide Python environment.
 
-Step2:Launch Spyder
+Step 2:Launch Spyder
 
 a.Just type "spyder" into the prompt and to the IDE 
 
